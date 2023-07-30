@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+form{
+  margin-left: 10px;
+}
+
 label {
   font-weight: bold;
   display: flex;
@@ -10,6 +14,12 @@ label {
 
 button {
   margin-top: 10px;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 4px;
 }
 
 .App-logo {
